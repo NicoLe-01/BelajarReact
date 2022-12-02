@@ -10,7 +10,7 @@ const Intro = () => {
         <Row>
           <Col>
             <div className="title">Nonton Gratis</div>
-            <div className="title">Gak Pake Karcis Hanya di MOVIE</div>
+            <div className="title">Gak Pake Karcis Hanya di MOVIE.COM</div>
             <div className="introButton mt-4 text-center">
               <Button variant="dark">Lihat Semua List</Button>
             </div>
